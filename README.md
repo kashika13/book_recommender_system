@@ -8,7 +8,9 @@
 </ul>
 <br>
 Here is the video demo of the web app:
-https://github.com/user-attachments/assets/d19b49a9-15e3-4043-8b04-5709659b61d2
+
+https://github.com/user-attachments/assets/6e3f4719-1a50-4975-9eee-9357ae92833b
+
 <br>
 Link for the web app:
 https://bookrecommender-system.streamlit.app/
