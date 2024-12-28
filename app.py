@@ -36,11 +36,6 @@ def recommend(book_name):
     
 
 st.title('Book Recommender System')
-st.markdown("""
-    <div style="position: fixed; bottom: 10px; right: 10px; color: #d3d3d3; font-size: 12px; background-color: transparent;">
-        Made by Kashika
-    </div>
-""", unsafe_allow_html=True)
 
 st.sidebar.title("Top 50 Books")
 book_name=list(popular_df['Book-Title'])
